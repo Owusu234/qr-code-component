@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: lightgray;
+}
+
+
+.QR{
+    border: 500px;
+    background: white;
+    position: absolute;
+    width: 500px;
+    height: 700px;
+    box-sizing: border-box;
+    margin-left: 720px;
+}
+
+
+
